@@ -6,6 +6,6 @@ For this project, we will segment our data with K-means clustering, an algorithm
 
 The dataset for this project is obtained from Kaggle and it is uploaded by UCI Machine Learning.
 
-Files discription:     
+Files description:     
 dataset.csv :  Dataset in csv format downloaded from Kaggle (https://www.kaggle.com/uciml/german-credit)    
 credit-card-users-segmentation.ipynb :  A complete Jupyter Notebook for this project
